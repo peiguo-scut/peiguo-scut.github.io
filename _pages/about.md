@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now an associate professor working in . My research focus mainly concentrates around interdisciplinary fields of theoretical artificial intelligence analysis and real-world applications, including graph model representing non-structure data, robust training algorithms with imperfect datasets and reinforcement learning algorithms for sequential decision making.This is the front page of a website that is powered by the [School of Biology and Biological Enginnering, South China University of Technology](http://www2.scut.edu.cn/biology/). My research focuses on biomolecular NMR.
+I am now an associate professor working in [School of Biology and Biological Enginnering, South China University of Technology](http://www2.scut.edu.cn/biology/). My research focuses on biomolecular NMR.
 
 A data-driven personal website
 ======
